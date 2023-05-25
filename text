@@ -1,0 +1,135 @@
+
+1-Prox 
+Jan 2020 - May 2020
+
+https://github.com/HadiScript/UET
+
+
+
+Its a simple application for small society  in the university, That allows users to connect, share experiences, and engage with each other through a variety of features. With this app, users can like and comment on posts, create connections with other users, and share their own experiences by uploading posts. This platform provides a dynamic and interactive environment for users to interact and connect with one another. As a freelancing project that I obtained through Fiverr, I am proud to have had the opportunity to contribute to the development of this app and I believe that it will prove to be a valuable resource for users looking to connect with others and share their experiences.
+
+I completed this project with my 1 team member
+
+Techs that we used in this project:
+React, Node.js, Express, NoSql, Redux 
+
+Outcome 
+I am are pleased to tell that the project was successfully delivered and received an overwhelmingly positive response. The client was particularly impressed with the implementation and offered numerous compliments on the work.
++++++
+
+
+2-Cycarts
+
+May 2020 - Augest 2020
+
+cycarts.com
+
+Its a business Application  "Cycarts", a comprehensive business application designed to improve productivity and communication within your organization. With this tool, employees can easily log in and track their work, while the administrator has the ability to enable a career form page. This feature is particularly useful for streamlining the process of managing emails from both customers and employees. The administrator can choose to delete emails, send messages to individual recipients, or even send messages to all recipients at once. In this way, Cycarts simplifies and enhances communication within the organization, leading to increased efficiency and effectiveness. We are confident that this application will be a valuable asset to your business.
+
+Solo project
+
+Techs that we used in this project
+React, Redux , Node.js, Express Js, NoSql and tailwind css
+
+++++++
+
+
+
+3-Eommerce
+
+Augest 2020 - Jan 2021
+
+ecomm.hadiraza.com
+
+Its a user-friendly electronic store where individuals can easily purchase a variety of electronic items. This platform offers a convenient and accessible way to shop for electronics, allowing users to browse and choose from a wide selection of products. Whether you are in need of a new phone, laptop, or home appliance, our electronic store has you covered. We hope that you will take advantage of this resource and find everything you need to fulfill your electronic shopping needs.
+
+
+Techs that i used in this project:
+React, Redux, Node.js, Express Js, NoSql, Firebase (for email verification and code on number), and tailwind css, 
+
++++++
+
+4-cy-converter
+
+Jan 2021 - April 2021 
+https://github.com/HadiScript/cycarts-converter
+
+Its a Converter Application.
+Its a user-friendly converter app that offers a wide range of media conversion capabilities. With this tool, users can easily transform various types of media to suit their needs. Some of the features included in this app are the ability to convert video formats, convert DOC files to PDF, convert image formats, reduce image dimensions, and compress image size. These features make it simple for users to adapt and modify media for a variety of purposes, saving time and effort in the process. We believe that this app will prove to be an invaluable resource for all of your media conversion needs.
+React, Node.js, Express Js, NoSql and tailwind css, these technologies are used in this project.
+
+github link
+
+
+
+Techs that i used in this project:
+Nodejs, Tailwindcss, 
+
++++++
+
+
+
+5-cy-ticketing-system
+
+April 2021 - Sept 2021 
+
+github link
+
+This cy-ticketing web application is designed to facilitate communication and problem-solving for clients and customer support agents. The application has four main user roles: Client, Agent-1, Agent-2, and Admin.
+
+The Client can submit a complaint through the application and it will be assigned to an Agent-1. The Agent-1 is responsible for understanding the issue and communicating with the client through the ticket comment section. Once the Agent-1 has a full understanding of the problem, they can then assign the issue to an Agent-2 for resolution. Once the Agent-2 has resolved the issue, they can respond back to the Agent-1, who can then update the client on the resolution.
+
+The Admin has full access to the application and can manage all aspects of the system, including user accounts, ticket assignments, and overall system performance.
+
+In summary, this cy-ticketing web application is designed to streamline communication and problem-solving between clients and customer support agents. The application has a clear system for assigning and resolving issues, and the Admin has full access to manage the system.
+
+I completed this project with one team member.
+
+these technologies are used in this project:
+React, Redux, Node.js, Express Js, NoSql and tailwind css.
+
++++++
+
+
+6-taniq.co
+
+Sept 2021 - March 2022
+
+This web application is designed for a construction company and is intended to be a full-featured tool for managing various aspects of the business. The application has three main user roles: Explorer (Client), Author, and Admin. The Admin has the highest level of access and is responsible for creating Author accounts.
+
+The application features a comprehensive admin panel that allows the Admin to create and manage different sections for services and projects. They can also add short descriptions of services and assign them to specific service and project sections. The Admin also has the ability to customize the appearance of the application, including the app title, tagline, phone number, and about section.
+
+The application also includes a page for managing email communications. The Admin can view all received emails, send emails directly from the app, and send bulk emails to multiple recipients at the same time.
+
+The Author role is responsible for creating and managing content for projects and services. They can also access the app's media library to upload and manage images and other media. The Admin also has the ability to delete any content from the application.
+
+Overall, the application is designed to provide a comprehensive and user-friendly tool for managing various aspects of the construction business, from managing projects and services, to communication with clients and customers, and customize the app appearance.
+
+Techs that i used in this project:
+React, Context API, Node.Js, Express Js, NoSql, tailwind css, Ant Design
+++++++
+
+
+
+7-DNFTP
+
+April 2022 - Continue
+https://dnftp-v3.vercel.app/
+
+8 months continue
+
+This application for buying and selling NFTs and also has timeline section where buyer and seller can communicate to each other.
+The application has three main user roles
+The Explorer can navigate the different categories of NFTs, view collections, and see the top sellers on the platform. They can also explore the entire site.
+The Seller can create their own NFTs by filling out forms or by pasting data links in JSON format. They can also purchase and collect NFTs and list them for sale. If a seller has 5 or more buyers, they become a top seller. They can also create links to buyers if they purchase NFTs from another seller. They can create posts to sell their NFTs and linked buyers can see the post and comment on it to buy the specific NFT. This method is supposed to produce low gas fees.
+The Buyer can purchase any NFT they want and collect multiple NFTs. They can also make links to the sellers they buy multiple NFTs from, and see their timelines.
+It is a marketplace platform for NFTs, where the user can explore, buy, sell and create the NFTs. The explorer can see all the collection, top seller and all the accounts. The sellers can create NFTs by filling the form or by pasting the data links and also purchase NFTs, once they have 5 or more buyers they become the top seller. The buyers can buy NFTs and make a link with the seller and see the timelines of purchases.
+
+NextJs, Typescript, Node.Js, Express Js, NoSql, Solidity
+
++++++
+
+
+
+
+I am are pleased to tell that the project was successfully delivered and received an overwhelmingly positive response. The client was particularly impressed with the implementation and offered numerous compliments on the work.
